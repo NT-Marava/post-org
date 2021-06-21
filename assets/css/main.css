@@ -299,7 +299,7 @@ button{
     display: inline-block;
     background: #fa575d;
     color: #FFF;
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
@@ -778,7 +778,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     display: inline-block;
     background: #fa575d;
     color: #FFF;
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
@@ -943,7 +943,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     padding-left: 50px;
     position: relative;
     line-height: 20px;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 0;
@@ -1222,7 +1222,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     margin-top: 30px;
 }
 .page-item a{
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     color: #fff;
     font-size: 12px;
     font-weight: 600;
@@ -1249,7 +1249,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     margin-right: 5px;
 }
 .page-item p{
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
@@ -1542,7 +1542,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .donate-list li{
     color: #6a8695;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     font-size: 13px;
     font-weight: 600;
     margin-right: 15px;
@@ -1840,7 +1840,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .service-content p{}
 .service-content .read-more{
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     color: #6a8695;
     font-size: 12px;
     font-weight: 600;
@@ -2013,7 +2013,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     margin-bottom: 0;
 }
 .team-content span{
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 12px;
     display: block;
     font-weight: 600;
@@ -2140,7 +2140,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .event-thumb .date{
     color: #fff;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     font-size: 13px;
     font-weight: 600;
     padding: 10px 15px;
@@ -2155,7 +2155,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     text-transform: uppercase;
 }
 .event-thumb .date h3{
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     font-size: 22px;
     color: #fff;
     margin-bottom: 0;
@@ -2186,7 +2186,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .event-list{}
 .event-list li{
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     display: inline-block;
     font-size: 12px;
     line-height: 26px;
@@ -2222,7 +2222,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     font-size: 12px;
     text-transform: uppercase;
     font-weight: 600;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     position: absolute;
     width: auto;
     height: auto;
@@ -2254,7 +2254,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .blog-content h3 a:hover{ color: #fa575d; }
 .blog-content .read-more{
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     color: #263a4f;
     font-size: 12px;
     font-weight: 600;
@@ -2338,7 +2338,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .single-post-meta li a{
     display: inline-block;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 600;
@@ -2441,7 +2441,7 @@ blockquote span{
     color: #263a4f;
     font-size: 12px;
     text-transform: uppercase;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     font-weight: 600;
     display: flex;
     align-items: center;
@@ -2525,7 +2525,7 @@ blockquote span{
     letter-spacing: -1px;
 }
 .blog-single-wrap .comments-area .comments-meta h4 span{
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-weight: 600;
     text-transform: none;
     display: inline-block;
@@ -2534,7 +2534,7 @@ blockquote span{
     margin-left: 5px;
 }
 .blog-single-wrap .comments-area .comment-reply-link {
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 12px;
     font-weight: 600;
     color: #fa575d;
@@ -2595,7 +2595,7 @@ blockquote span{
     float: right;
 }
 .blog-single-wrap .comment-respond .form-submit input{
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     max-width: 180px;
     background-color: #fa575d;
     color: #fff;
@@ -2622,7 +2622,7 @@ blockquote span{
 }
 .sidebar-wrap .widget-content h4{
     position: relative;
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 14px;
     color: #20212b;
     margin-bottom: 30px;
@@ -2727,7 +2727,7 @@ blockquote span{
     display: inline-block;
 }
 .widget-content .tags li a{
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     display: inline-block;
     background-color: #f5f5f5;
     padding: 5px 10px;
@@ -2780,7 +2780,7 @@ blockquote span{
     color: #6a8695;
     font-weight: 600;
     letter-spacing: 0;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     display: block;
     margin-bottom: 20px;
 }
@@ -2882,7 +2882,7 @@ blockquote span{
 }
 .subscribe-form .submit-btn{
     background-color: #fa575d;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     text-transform: uppercase;
     color: #fff;
     font-size: 12px;
@@ -2987,7 +2987,7 @@ blockquote span{
     color: #fff;
     font-size: 14px;
     font-weight: 600;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     letter-spacing: 0;
     text-transform: uppercase;
 }
@@ -3075,7 +3075,7 @@ blockquote span{
 }
 .counter-content h4{
     color: #fff;
-    font-family: "Work Sans",Sans-serif;
+    font-family: "Poppins",Sans-serif;
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
@@ -3141,7 +3141,7 @@ blockquote span{
 .event-tittle h3{
     font-size: 18px;
     font-weight: 600;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Poppins",sans-serif;
     line-height: normal;
     letter-spacing: 0;
     display: inline-block;
@@ -3168,7 +3168,7 @@ blockquote span{
     margin-bottom: 40px;
 }
 .details-list li{
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     color: #20212b;
     font-size: 12px;
     font-weight: 600;
@@ -3277,7 +3277,7 @@ blockquote span{
 }
 .cause-tag li a{
     background-color: #fa575d;
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     color: #fff;
     font-size: 12px;
     font-weight: 600;
@@ -3296,7 +3296,7 @@ blockquote span{
 .cause-box{}
 .cause-title{}
 .cause-title h3{
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     color: #20212b;
     font-size: 14px;
     font-weight: 600;
@@ -3332,7 +3332,7 @@ blockquote span{
     height: 45px;
     line-height: 45px;
     margin-right: 5px;
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     color: #20212b;
     font-size: 12px;
     font-weight: 600;
@@ -3573,7 +3573,7 @@ blockquote span{
 .contact-section .form-heading p{ margin-bottom: 25px;}
 .form-heading{}
 .form-heading span{
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #fa575d;
     font-size: 12px;
     text-transform: uppercase;
@@ -3595,7 +3595,7 @@ blockquote span{
     font-weight: 600;
     outline: none;
     box-shadow: none;
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     font-size: 12px;
     margin-bottom: 10px;
